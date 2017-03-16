@@ -1,6 +1,19 @@
 body {
-  background-color: lightblue;
+  background-color: silver;
 }
 p {
-  color: purple;
+  color: red;
+  font-size: 18px ;
+  font-family: cursive ;
+  text-decoration: line-through ;
+  font-style: italic ;
+}
+div {
+  background-color: red ;
+  height: 100px ;
+  width: 200px ;
+  margin: 10px ;
+  border: solid red 5px ;
+  border-radius: 15% ;
+  
 }
